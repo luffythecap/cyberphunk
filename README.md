@@ -4,7 +4,6 @@ A futuristic, immersive **Cyberpunk-themed website** built using **React**. This
 
 ![Main Preview](https://github.com/user-attachments/assets/49aa90bb-23b8-47e6-abac-eae3ce3c739a)
 
-## 🚀 Live Demo
 
 
 ---
